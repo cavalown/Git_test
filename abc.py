@@ -1,6 +1,5 @@
 import time
-
+import datetime
 
 print('Fist hello')
-print(f'Time is : {time.time()}')
-
+print(f'Time is : {datetime.datetime.now()}')
