@@ -1,0 +1,28 @@
+# add git to staging area
+git add file_name
+
+# commit git to local repository
+git commit -m "version:annotation"
+
+# push to github
+git push http://github.com/github_id/repository_name
+
+# after modify files, you need to add and commit then push
+git add file_name
+git commit -m "version2: content of modification" 
+git push http://github.com/github_id/repository_name
+
+ps. Before push to github, you should create a new repository from github website.
+
+# check the git status, you can see file is modified, added or should be committed
+git status
+git status -s # in briefly
+
+# show all git versions
+git log
+git log --oneline # in briefly
+
+# check the difference
+git diff 
+
+# 
