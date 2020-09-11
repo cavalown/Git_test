@@ -16,3 +16,5 @@ print(f"""And now time is {datetime.datetime.now()},
 it takes {t2-t1} during two 'hello'""")
 
 
+# introduction
+print("Hi, I am i git practicer")
