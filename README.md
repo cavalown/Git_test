@@ -1,8 +1,7 @@
 # Git_test
 
 
-https://git-scm.com/book/en/v2/images/lifecycle.png
-
+![image](https://git-scm.com/book/en/v2/images/lifecycle.png)
 
 
 0. Create Readme.md
