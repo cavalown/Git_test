@@ -10,4 +10,6 @@
 
 4. Copy a file, efg.py  same as abc.py
 
-5. Modify abc.py
+5. Modify abc.py : Hello again
+
+6. Modify abc.py : write an annotation

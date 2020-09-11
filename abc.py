@@ -1,6 +1,8 @@
 import time
 import datetime
 
+# write an annotation
+
 print('Fist hello')
 print(f'Time is : {datetime.datetime.now()}')
 t1 = time.time()
